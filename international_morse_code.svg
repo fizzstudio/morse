@@ -1,0 +1,320 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 760">
+  <title id="diagram-title">Number Line</title>
+  <style>
+    .background {
+      stroke: gainsboro;
+      fill: none;
+    }
+  
+    text {
+      font-family: Helvetica, cursive;
+      font-size: 18px;
+      text-anchor: middle;
+      fill: black;
+    }
+
+    path {
+      stroke: black;
+      stroke-width: 3px;
+      stroke-linecap: round;
+      fill: none;
+    }
+
+    .char-a {
+      stroke-dasharray: 5 5 15, 300;
+    }
+    
+    .char-b {
+      stroke-dasharray: 15 5 5 5 5 5 5, 300;
+    }
+    
+    .char-c {
+      stroke-dasharray: 15 5 5 5 15 5 5, 300;
+    }
+    
+    .char-d {
+      stroke-dasharray: 15 5 5 5 5, 300;
+    }
+    
+    .char-e {
+      stroke-dasharray: 5, 300;
+    }
+    
+    .char-f {
+      stroke-dasharray: 5 5 5 5 15 5 5, 300;
+    }
+    
+    .char-g {
+      stroke-dasharray: 15 5 15 5 5, 300;
+    }
+    
+    .char-h {
+      stroke-dasharray: 5 5 5 5 5 5 5, 300;
+    }
+    
+    .char-i {
+      stroke-dasharray: 5 5 5, 300;
+    }
+    
+    .char-j {
+      stroke-dasharray: 5 5 15 5 15 5 15, 300;
+    }
+    
+    .char-k {
+      stroke-dasharray: 15 5 5 5 15, 300;
+    }
+    
+    .char-l {
+      stroke-dasharray: 5 5 15 5 5 5 5, 300;
+    }
+    
+    .char-m {
+      stroke-dasharray: 15 5 15, 300;
+    }
+    
+    .char-n {
+      stroke-dasharray: 15 5 5, 300;
+    }
+    
+    .char-o {
+      stroke-dasharray: 15 5 15 5 15, 300;
+    }
+    
+    .char-p {
+      stroke-dasharray: 5 5 15 5 15 5 5, 300;
+    }
+    
+    .char-q {
+      stroke-dasharray: 15 5 15 5 5 5 15, 300;
+    }
+    
+    .char-r {
+      stroke-dasharray: 5 5 15 5 5, 300;
+    }
+    
+    .char-s {
+      stroke-dasharray: 5 5 5 5 5, 300;
+    }
+    
+    .char-t {
+      stroke-dasharray: 15, 300;
+    }
+    
+    .char-u {
+      stroke-dasharray: 5 5 5 5 15, 300;
+    }
+    
+    .char-v {
+      stroke-dasharray: 5 5 5 5 5 5 15, 300;
+    }
+    
+    .char-w {
+      stroke-dasharray: 5 5 15 5 15, 300;
+    }
+    
+    .char-x {
+      stroke-dasharray: 15 5 5 5 5 5 15, 300;
+    }
+    
+    .char-y {
+      stroke-dasharray: 15 5 5 5 15 5 15, 300;
+    }
+    
+    .char-z {
+      stroke-dasharray: 15 5 15 5 5 5 5, 300;
+    }
+    
+    .char-0 {
+      stroke-dasharray: 15 5 15 5 15 5 15 5 15, 300;
+    }
+    
+    .char-1 {
+      stroke-dasharray: 5 5 15 5 15 5 15 5 15, 300;
+    }
+    
+    .char-2 {
+      stroke-dasharray: 5 5 5 5 15 5 15 5 15, 300;
+    }
+    
+    .char-3 {
+      stroke-dasharray: 5 5 5 5 5 5 15 5 15, 300;
+    }
+    
+    .char-4 {
+      stroke-dasharray: 5 5 5 5 5 5 5 5 15, 300;
+    }
+    
+    .char-5 {
+      stroke-dasharray: 5 5 5 5 5 5 5 5 5, 300;
+    }
+    
+    .char-6 {
+      stroke-dasharray: 15 5 5 5 5 5 5 5 5, 300;
+    }
+    
+    .char-7 {
+      stroke-dasharray: 15 5 15 5 5 5 5 5 5, 300;
+    }
+    
+    .char-8 {
+      stroke-dasharray: 15 5 15 5 15 5 5 5 5, 300;
+    }
+    
+    .char-9 {
+      stroke-dasharray: 15 5 15 5 15 5 15 5 5, 300;
+    }
+    
+    
+  </style>
+
+
+  <rect class="background" width="100%" height="100%" />
+ 
+  <g transform="translate(0, 20)">
+    <g id="a" transform="translate(20, 20)">
+      <text>a</text>
+      <path class="char-a" d="M50,-5 H300"/>
+    </g>
+    <g id="b" transform="translate(20, 40)">
+      <text>b</text>
+      <path class="char-b" d="M50,-5 H300"/>
+    </g>
+    <g id="c" transform="translate(20, 60)">
+      <text>c</text>
+      <path class="char-c" d="M50,-5 H300"/>
+    </g>
+    <g id="d" transform="translate(20, 80)">
+      <text>d</text>
+      <path class="char-d" d="M50,-5 H300"/>
+    </g>
+    <g id="e" transform="translate(20, 100)">
+      <text>e</text>
+      <path class="char-e" d="M50,-5 H300"/>
+    </g>
+    <g id="f" transform="translate(20, 120)">
+      <text>f</text>
+      <path class="char-f" d="M50,-5 H300"/>
+    </g>
+    <g id="g" transform="translate(20, 140)">
+      <text>g</text>
+      <path class="char-g" d="M50,-5 H300"/>
+    </g>
+    <g id="h" transform="translate(20, 160)">
+      <text>h</text>
+      <path class="char-h" d="M50,-5 H300"/>
+    </g>
+    <g id="i" transform="translate(20, 180)">
+      <text>i</text>
+      <path class="char-i" d="M50,-5 H300"/>
+    </g>
+    <g id="j" transform="translate(20, 200)">
+      <text>j</text>
+      <path class="char-j" d="M50,-5 H300"/>
+    </g>
+    <g id="k" transform="translate(20, 220)">
+      <text>k</text>
+      <path class="char-k" d="M50,-5 H300"/>
+    </g>
+    <g id="l" transform="translate(20, 240)">
+      <text>l</text>
+      <path class="char-l" d="M50,-5 H300"/>
+    </g>
+    <g id="m" transform="translate(20, 260)">
+      <text>m</text>
+      <path class="char-m" d="M50,-5 H300"/>
+    </g>
+    <g id="n" transform="translate(20, 280)">
+      <text>n</text>
+      <path class="char-n" d="M50,-5 H300"/>
+    </g>
+    <g id="o" transform="translate(20, 300)">
+      <text>o</text>
+      <path class="char-o" d="M50,-5 H300"/>
+    </g>
+    <g id="p" transform="translate(20, 320)">
+      <text>p</text>
+      <path class="char-p" d="M50,-5 H300"/>
+    </g>
+    <g id="q" transform="translate(20, 340)">
+      <text>q</text>
+      <path class="char-q" d="M50,-5 H300"/>
+    </g>
+    <g id="r" transform="translate(20, 360)">
+      <text>r</text>
+      <path class="char-r" d="M50,-5 H300"/>
+    </g>
+    <g id="s" transform="translate(20, 380)">
+      <text>s</text>
+      <path class="char-s" d="M50,-5 H300"/>
+    </g>
+    <g id="t" transform="translate(20, 400)">
+      <text>t</text>
+      <path class="char-t" d="M50,-5 H300"/>
+    </g>
+    <g id="u" transform="translate(20, 420)">
+      <text>u</text>
+      <path class="char-u" d="M50,-5 H300"/>
+    </g>
+    <g id="v" transform="translate(20, 440)">
+      <text>v</text>
+      <path class="char-v" d="M50,-5 H300"/>
+    </g>
+    <g id="w" transform="translate(20, 460)">
+      <text>w</text>
+      <path class="char-w" d="M50,-5 H300"/>
+    </g>
+    <g id="x" transform="translate(20, 480)">
+      <text>x</text>
+      <path class="char-x" d="M50,-5 H300"/>
+    </g>
+    <g id="y" transform="translate(20, 500)">
+      <text>y</text>
+      <path class="char-y" d="M50,-5 H300"/>
+    </g>
+    <g id="z" transform="translate(20, 520)">
+      <text>z</text>
+      <path class="char-z" d="M50,-5 H300"/>
+    </g>
+    <g id="0" transform="translate(20, 540)">
+      <text>0</text>
+      <path class="char-0" d="M50,-5 H300"/>
+    </g>
+    <g id="1" transform="translate(20, 560)">
+      <text>1</text>
+      <path class="char-1" d="M50,-5 H300"/>
+    </g>
+    <g id="2" transform="translate(20, 580)">
+      <text>2</text>
+      <path class="char-2" d="M50,-5 H300"/>
+    </g>
+    <g id="3" transform="translate(20, 600)">
+      <text>3</text>
+      <path class="char-3" d="M50,-5 H300"/>
+    </g>
+    <g id="4" transform="translate(20, 620)">
+      <text>4</text>
+      <path class="char-4" d="M50,-5 H300"/>
+    </g>
+    <g id="5" transform="translate(20, 640)">
+      <text>5</text>
+      <path class="char-5" d="M50,-5 H300"/>
+    </g>
+    <g id="6" transform="translate(20, 660)">
+      <text>6</text>
+      <path class="char-6" d="M50,-5 H300"/>
+    </g>
+    <g id="7" transform="translate(20, 680)">
+      <text>7</text>
+      <path class="char-7" d="M50,-5 H300"/>
+    </g>
+    <g id="8" transform="translate(20, 700)">
+      <text>8</text>
+      <path class="char-8" d="M50,-5 H300"/>
+    </g>
+    <g id="9" transform="translate(20, 720)">
+      <text>9</text>
+      <path class="char-9" d="M50,-5 H300"/>
+    </g>
+  </g>
+  
+</svg>

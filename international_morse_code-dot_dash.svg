@@ -1,0 +1,212 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 760">
+  <title id="diagram-title">Number Line</title>
+  <style>
+    .background {
+      stroke: gainsboro;
+      fill: none;
+    }
+  
+    text {
+      font-family: Helvetica, cursive;
+      font-size: 18px;
+      text-anchor: middle;
+      fill: black;
+    }
+
+    path {
+      stroke: black;
+      stroke-width: 3px;
+      stroke-linecap: round;
+      fill: none;
+    }
+
+
+  </style>
+
+
+  <rect class="background" width="100%" height="100%"/>
+ 
+  <g transform="translate(0, 20)">
+    <g id="a" transform="translate(20, 20)">
+      <text>a</text>
+      <text x="50">.-</text>
+      <path class="a" d="M100,-5 H300" style="stroke-dasharray: 10 10 30, 300;"/>
+    </g>
+    <g id="b" transform="translate(20, 40)">
+      <text>b</text>
+      <text x="50">-...</text>
+      <path class="b" d="M100,-5 H300" style="stroke-dasharray: 30 10 10 10 10 10 10, 300;"/>
+    </g>
+    <g id="c" transform="translate(20, 60)">
+      <text>c</text>
+      <text x="50">-.-.</text>
+      <path class="c" d="M100,-5 H300" style="stroke-dasharray: 30 10 10 10 30 10 10, 300;"/>
+    </g>
+    <g id="d" transform="translate(20, 80)">
+      <text>d</text>
+      <text x="50">-..</text>
+      <path class="d" d="M100,-5 H300" style="stroke-dasharray: 30 10 10 10 10, 300;"/>
+    </g>
+    <g id="e" transform="translate(20, 100)">
+      <text>e</text>
+      <text x="50">.</text>
+      <path class="e" d="M100,-5 H300" style="stroke-dasharray: 10, 300;"/>
+    </g>
+    <g id="f" transform="translate(20, 120)">
+      <text>f</text>
+      <text x="50">..-.</text>
+      <path class="f" d="M100,-5 H300" style="stroke-dasharray: 10 10 10 10 30 10 10, 300;"/>
+    </g>
+    <g id="g" transform="translate(20, 140)">
+      <text>g</text>
+      <text x="50">--.</text>
+      <path class="g" d="M100,-5 H300" style="stroke-dasharray: 30 10 30 10 10, 300;"/>
+    </g>
+    <g id="h" transform="translate(20, 160)">
+      <text>h</text>
+      <text x="50">....</text>
+      <path class="h" d="M100,-5 H300" style="stroke-dasharray: 10 10 10 10 10 10 10, 300;"/>
+    </g>
+    <g id="i" transform="translate(20, 180)">
+      <text>i</text>
+      <text x="50">..</text>
+      <path class="i" d="M100,-5 H300" style="stroke-dasharray: 10 10 10, 300;"/>
+    </g>
+    <g id="j" transform="translate(20, 200)">
+      <text>j</text>
+      <text x="50">.---</text>
+      <path class="j" d="M100,-5 H300" style="stroke-dasharray: 10 10 30 10 30 10 30, 300;"/>
+    </g>
+    <g id="k" transform="translate(20, 220)">
+      <text>k</text>
+      <text x="50">-.-</text>
+      <path class="k" d="M100,-5 H300" style="stroke-dasharray: 30 10 10 10 30, 300;"/>
+    </g>
+    <g id="l" transform="translate(20, 240)">
+      <text>l</text>
+      <text x="50">.-..</text>
+      <path class="l" d="M100,-5 H300" style="stroke-dasharray: 10 10 30 10 10 10 10, 300;"/>
+    </g>
+    <g id="m" transform="translate(20, 260)">
+      <text>m</text>
+      <text x="50">--</text>
+      <path class="m" d="M100,-5 H300" style="stroke-dasharray: 30 10 30, 300;"/>
+    </g>
+    <g id="n" transform="translate(20, 280)">
+      <text>n</text>
+      <text x="50">-.</text>
+      <path class="n" d="M100,-5 H300" style="stroke-dasharray: 30 10 10, 300;"/>
+    </g>
+    <g id="o" transform="translate(20, 300)">
+      <text>o</text>
+      <text x="50">---</text>
+      <path class="o" d="M100,-5 H300" style="stroke-dasharray: 30 10 30 10 30, 300;"/>
+    </g>
+    <g id="p" transform="translate(20, 320)">
+      <text>p</text>
+      <text x="50">.--.</text>
+      <path class="p" d="M100,-5 H300" style="stroke-dasharray: 10 10 30 10 30 10 10, 300;"/>
+    </g>
+    <g id="q" transform="translate(20, 340)">
+      <text>q</text>
+      <text x="50">--.-</text>
+      <path class="q" d="M100,-5 H300" style="stroke-dasharray: 30 10 30 10 10 10 30, 300;"/>
+    </g>
+    <g id="r" transform="translate(20, 360)">
+      <text>r</text>
+      <text x="50">.-.</text>
+      <path class="r" d="M100,-5 H300" style="stroke-dasharray: 10 10 30 10 10, 300;"/>
+    </g>
+    <g id="s" transform="translate(20, 380)">
+      <text>s</text>
+      <text x="50">...</text>
+      <path class="s" d="M100,-5 H300" style="stroke-dasharray: 10 10 10 10 10, 300;"/>
+    </g>
+    <g id="t" transform="translate(20, 400)">
+      <text>t</text>
+      <text x="50">-</text>
+      <path class="t" d="M100,-5 H300" style="stroke-dasharray: 30, 300;"/>
+    </g>
+    <g id="u" transform="translate(20, 420)">
+      <text>u</text>
+      <text x="50">..-</text>
+      <path class="u" d="M100,-5 H300" style="stroke-dasharray: 10 10 10 10 30, 300;"/>
+    </g>
+    <g id="v" transform="translate(20, 440)">
+      <text>v</text>
+      <text x="50">...-</text>
+      <path class="v" d="M100,-5 H300" style="stroke-dasharray: 10 10 10 10 10 10 30, 300;"/>
+    </g>
+    <g id="w" transform="translate(20, 460)">
+      <text>w</text>
+      <text x="50">.--</text>
+      <path class="w" d="M100,-5 H300" style="stroke-dasharray: 10 10 30 10 30, 300;"/>
+    </g>
+    <g id="x" transform="translate(20, 480)">
+      <text>x</text>
+      <text x="50">-..-</text>
+      <path class="x" d="M100,-5 H300" style="stroke-dasharray: 30 10 10 10 10 10 30, 300;"/>
+    </g>
+    <g id="y" transform="translate(20, 500)">
+      <text>y</text>
+      <text x="50">-.--</text>
+      <path class="y" d="M100,-5 H300" style="stroke-dasharray: 30 10 10 10 30 10 30, 300;"/>
+    </g>
+    <g id="z" transform="translate(20, 520)">
+      <text>z</text>
+      <text x="50">--..</text>
+      <path class="z" d="M100,-5 H300" style="stroke-dasharray: 30 10 30 10 10 10 10, 300;"/>
+    </g>
+    <g id="0" transform="translate(20, 540)">
+      <text>0</text>
+      <text x="50">-----</text>
+      <path class="0" d="M100,-5 H300" style="stroke-dasharray: 30 10 30 10 30 10 30 10 30, 300;"/>
+    </g>
+    <g id="1" transform="translate(20, 560)">
+      <text>1</text>
+      <text x="50">.----</text>
+      <path class="1" d="M100,-5 H300" style="stroke-dasharray: 10 10 30 10 30 10 30 10 30, 300;"/>
+    </g>
+    <g id="2" transform="translate(20, 580)">
+      <text>2</text>
+      <text x="50">..---</text>
+      <path class="2" d="M100,-5 H300" style="stroke-dasharray: 10 10 10 10 30 10 30 10 30, 300;"/>
+    </g>
+    <g id="3" transform="translate(20, 600)">
+      <text>3</text>
+      <text x="50">...--</text>
+      <path class="3" d="M100,-5 H300" style="stroke-dasharray: 10 10 10 10 10 10 30 10 30, 300;"/>
+    </g>
+    <g id="4" transform="translate(20, 620)">
+      <text>4</text>
+      <text x="50">....-</text>
+      <path class="4" d="M100,-5 H300" style="stroke-dasharray: 10 10 10 10 10 10 10 10 30, 300;"/>
+    </g>
+    <g id="5" transform="translate(20, 640)">
+      <text>5</text>
+      <text x="50">.....</text>
+      <path class="5" d="M100,-5 H300" style="stroke-dasharray: 10 10 10 10 10 10 10 10 10, 300;"/>
+    </g>
+    <g id="6" transform="translate(20, 660)">
+      <text>6</text>
+      <text x="50">-....</text>
+      <path class="6" d="M100,-5 H300" style="stroke-dasharray: 30 10 10 10 10 10 10 10 10, 300;"/>
+    </g>
+    <g id="7" transform="translate(20, 680)">
+      <text>7</text>
+      <text x="50">--...</text>
+      <path class="7" d="M100,-5 H300" style="stroke-dasharray: 30 10 30 10 10 10 10 10 10, 300;"/>
+    </g>
+    <g id="8" transform="translate(20, 700)">
+      <text>8</text>
+      <text x="50">---..</text>
+      <path class="8" d="M100,-5 H300" style="stroke-dasharray: 30 10 30 10 30 10 10 10 10, 300;"/>
+    </g>
+    <g id="9" transform="translate(20, 720)">
+      <text>9</text>
+      <text x="50">----.</text>
+      <path class="9" d="M100,-5 H300" style="stroke-dasharray: 30 10 30 10 30 10 30 10 10, 300;"/>
+    </g>
+  </g>
+  
+</svg>

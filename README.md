@@ -1,2 +1,3 @@
-# morse
-International Morse Code in SVG, using dasharray.
+# re-morse
+
+International Morse Code, recreated in SVG using dasharray.
